@@ -99,7 +99,7 @@ def presentar_problema(expr, pregunta, con_pistas=False, tipo_problema=None):
 
 # Función principal
 def main():
-    st.title("Generador de Problemas de Cálculo Integral")
+    st.title("Dolores")
 
     # Configurar opciones
     dificultad = st.sidebar.selectbox("Seleccione la dificultad:", ["Fácil", "Intermedio", "Difícil"])
